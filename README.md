@@ -50,9 +50,11 @@ $ cat profile.json
 
 ## Certificaciones & Cursos
 
-* **Udemy:** Certificación en Ciberseguridad & Desarrollo *(Udemy Certified)*
+* **[Certificación Profesional de Udemy](https://www.udemy.com/certificate/UC-499922d3-d0ba-432e-bbc5-1eade2c9a2c1/)**
   <br />
-  <img src="https://img.shields.io/badge/Udemy-Certified-A435F0?style=flat-square&logo=udemy&logoColor=white" alt="Udemy Certificate" />
+  <a href="https://www.udemy.com/certificate/UC-499922d3-d0ba-432e-bbc5-1eade2c9a2c1/">
+    <img src="https://img.shields.io/badge/Udemy-Verificar_Certificado-A435F0?style=flat-square&logo=udemy&logoColor=white" alt="Udemy Certificate" />
+  </a>
 
 ---
 
