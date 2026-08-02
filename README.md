@@ -1,35 +1,36 @@
 <div align="center">
 
   <h1><code>>_ Alejandro (reivaJAQM)</code></h1>
-  <p><b>Cybersecurity Student | Ethical Hacking Enthusiast | Security Automation</b></p>
+  <p><b>IT Engineering Student | Cybersecurity & Ethical Hacking Specialist</b></p>
 
   <p>
     <a href="https://github.com/reivaJAQM">
       <img src="https://img.shields.io/github/followers/reivaJAQM?label=Cyber%20Followers&style=for-the-badge&color=000000&logo=github&logoColor=00FF66" alt="Followers" />
     </a>
-    <img src="https://img.shields.io/badge/Focus-Cybersecurity%20%26%20Pentesting-00FF66?style=for-the-badge&logo=kalilinux&logoColor=black" alt="Focus" />
-    <img src="https://img.shields.io/badge/Role-Security%20Student-00E5FF?style=for-the-badge&logo=shield&logoColor=black" alt="Role" />
+    <img src="https://img.shields.io/badge/Degree-IT%20Engineering-007ACC?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Degree" />
+    <img src="https://img.shields.io/badge/Specialization-Cybersecurity%20%26%20Pentesting-00FF66?style=for-the-badge&logo=kalilinux&logoColor=black" alt="Specialization" />
   </p>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00FF66&center=true&vCenter=true&width=650&lines=Cybersecurity+%26+Ethical+Hacking+Student;Penetration+Testing+%26+Security+Tooling;Python+%26+Bash+Automation+for+Cyber;Linux+%26+Network+Security+Enthusiast" alt="Cybersecurity Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1200&color=00FF66&center=true&vCenter=true&width=650&lines=IT+Engineering+Student;Specializing+in+Cybersecurity+%26+Ethical+Hacking;Penetration+Testing+%26+Security+Automation;Network+Security+%26+Linux+Hardening" alt="Cybersecurity Typing SVG" />
 
 </div>
 
 ---
 
-### 🛡️ About Me / Perfil de Ciberseguridad
+### 🛡️ About Me / Perfil Profesional
 
-Estudiante de **Ciberseguridad** enfocado en el aprendizaje continuo de **Hacking Ético**, **Pentesting** y **Automatización de Seguridad**. Apasionado por comprender cómo funcionan los sistemas a bajo nivel, auditar aplicaciones web y desarrollar scripts automatizados para análisis y recolección de información.
+Estudiante de **Ingeniería en Tecnologías de la Información**, especializándome en **Ciberseguridad**, **Hacking Ético** y **Automatización de Seguridad**. Apasionado por la protección de infraestructuras IT, auditoría de aplicaciones web y desarrollo de herramientas scriptadas para pentesting y análisis de vulnerabilidades.
 
 ```bash
 $ cat bio.json
 {
   "name": "Alejandro",
   "alias": "reivaJAQM",
-  "field": "Cybersecurity & Ethical Hacking",
+  "degree": "B.S. in Information Technology Engineering",
+  "specialization": "Cybersecurity & Ethical Hacking",
   "core_languages": ["Python", "Bash", "TypeScript", "JavaScript"],
   "focus": ["Web Security (OWASP)", "Network Reconnaissance", "Security Automation", "Linux Hardening"],
-  "motto": "Securing systems through continuous learning and offensive analysis."
+  "motto": "Securing IT infrastructures through continuous learning and offensive analysis."
 }
 ```
 
@@ -61,10 +62,11 @@ $ cat bio.json
 
 ### 🔍 Áreas de Especialización & Aprendizaje
 
-- 🎯 **Seguridad Web (Web App Sec):** Estudio e identificación de vulnerabilidades bajo los estándares de OWASP Top 10 y auditoría de código.
-- 🤖 **Automatización de Seguridad:** Creación de bots y scripts en Python y Shell para reconocimiento, tareas repetitivas y monitoreo.
-- 🌐 **Redes y Reconocimiento:** Análisis de tráfico de red, escaneo de puertos y recolección de información (OSINT/Recon).
-- 🐧 **Entornos Linux & Contenedores:** Administración de sistemas Linux y despliegues seguros utilizando contenedores Docker.
+- 🎓 **Formación Académica:** Ingeniería en Tecnologías de la Información aplicada al desarrollo de software seguro e infraestructura IT.
+- 🎯 **Seguridad Web (Web App Sec):** Identificación y análisis de vulnerabilidades bajo estándares OWASP Top 10.
+- 🤖 **Automatización de Seguridad:** Creación de herramientas y scripts en Python/Shell para tareas de auditoría y escaneo.
+- 🌐 **Redes y Reconocimiento:** Análisis de tráfico de red, enumeración de puertos y técnicas de reconocimiento.
+- 🐧 **Entornos Linux & Contenedores:** Hardening de sistemas Linux y contenedorización con Docker.
 
 ---
 
