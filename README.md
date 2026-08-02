@@ -48,6 +48,14 @@ $ cat profile.json
 
 ---
 
+## Certificaciones & Cursos
+
+* **Udemy:** Certificación en Ciberseguridad & Desarrollo *(Udemy Certified)*
+  <br />
+  <img src="https://img.shields.io/badge/Udemy-Certified-A435F0?style=flat-square&logo=udemy&logoColor=white" alt="Udemy Certificate" />
+
+---
+
 ## Áreas de Especialización
 
 * **Formación en IT:** Fundamentos de arquitectura de software, redes de computadoras y gestión de infraestructuras IT.
@@ -73,14 +81,10 @@ $ cat profile.json
 
 <br />
 
-### Gráfico de Contribuciones (Snake Graph)
+### Gráfico de Actividad Continua
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reivaJAQM/reivaJAQM/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reivaJAQM/reivaJAQM/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/reivaJAQM/reivaJAQM/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reivaJAQM&theme=radical&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </div>
 
 ---
