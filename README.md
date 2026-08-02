@@ -8,7 +8,7 @@
       <img src="https://img.shields.io/github/followers/reivaJAQM?label=GitHub%20Followers&style=for-the-badge&color=0d1117&logo=github" alt="Followers" />
     </a>
     <img src="https://img.shields.io/badge/Main%20Stack-TypeScript%20%7C%20Python-blue?style=for-the-badge&logo=codeforces&logoColor=white" alt="Main Stack" />
-    <img src="https://img.shields.io/badge/Architecture-Full%20Stack%20%26%20Bots-00C7B7?style=for-the-badge" alt="Architecture" />
+    <img src="https://img.shields.io/badge/Architecture-Full%20Stack%20%26%20Automation-00C7B7?style=for-the-badge" alt="Architecture" />
   </p>
 
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00E5FF&center=true&vCenter=true&width=650&lines=Building+Multiplatform+Applications;Automating+Complex+Workflows+%26+Bots;Full+Stack+Engineering+with+TypeScript+%26+Python" alt="Typing SVG" />
@@ -19,17 +19,17 @@
 
 ### 💡 Acerca de Mi Trayectoria
 
-Soy un **Ingeniero de Software** apasionado por resolver problemas complejos mediante el desarrollo de aplicaciones multiplataforma y la automatización inteligente de procesos.
+Soy un **Ingeniero de Software** enfocado en el desarrollo de aplicaciones web multiplataforma, sistemas de automatización de procesos e integración continua. 
 
-Mi trabajo abarca desde la arquitectura de ecosistemas completos para conectar usuarios y servicios, hasta la creación de bots de alta precisión y herramientas de integración continua.
+Especializado en **TypeScript** y **Python**, me apasiona diseñar arquitecturas limpias, construir herramientas automatizadas eficientes y desplegar soluciones escalables.
 
-> **Filosofía de Desarrollo:** *Transformar procesos complejos en código limpio, automatizado y escalable.*
+> **Filosofía de Desarrollo:** *Transformar procesos complejos en código limpio, automatizado y mantenible.*
 
 ---
 
 ### 💻 Ecosistema Tecnológico
 
-#### 🚀 Lenguajes & Núcleo Técnico
+#### 🚀 Lenguajes de Programación
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -49,47 +49,11 @@ Mi trabajo abarca desde la arquitectura de ecosistemas completos para conectar u
 
 ---
 
-### ⚡ Proyectos Destacados
+### 🎯 Áreas de Enfoque & Especialidad
 
-<details open>
-  <summary><b>🌐 Vocatio — Plataforma Multiplataforma</b></summary>
-  <br />
-  Ecosistema integral desarrollado para conectar clientes con trabajadores formales e informales. Diseñado con una arquitectura modular para alta disponibilidad y comunicación fluida.
-  <br />
-  <code>TypeScript</code> <code>Python</code> <code>Multiplatform</code>
-</details>
-
-<br />
-
-<details open>
-  <summary><b>🤖 BOT-RESOLVER — Automatización & Testing Bot</b></summary>
-  <br />
-  Bot especializado en la ejecución automatizada y evaluación de pruebas en plataformas de aprendizaje de idiomas. Optimiza tareas repetitivas garantizando precisión.
-  <br />
-  <code>Python</code> <code>Docker</code> <code>Shell Automation</code>
-</details>
-
-<br />
-
-<details open>
-  <summary><b>📝 Cuestionario Examen de Inglés — App Web Interactiva</b></summary>
-  <br />
-  Plataforma web dinámica para el entrenamiento y evaluación continua de conocimientos en idioma inglés. Desplegada para uso en producción.
-  <br />
-  👉 <b><a href="https://cuestionario-examen-de-ingles.vercel.app">Probar aplicación en vivo</a></b>
-  <br />
-  <code>JavaScript</code> <code>HTML/CSS</code> <code>Vercel Cloud</code>
-</details>
-
-<br />
-
-<details open>
-  <summary><b>🌱 Gardening Solutions — Sistema de Gestión Web</b></summary>
-  <br />
-  Aplicación enfocada en la gestión operativa y administración centralizada de servicios especializados de jardinería.
-  <br />
-  <code>Python</code> <code>HTML5/CSS3</code> <code>JavaScript</code>
-</details>
+- **Desarrollo Full Stack Multiplataforma:** Construcción de aplicaciones web modernas, interfaces responsivas y servicios backend robustos.
+- **Automatización & Bots:** Desarrollo de bots y scripts en Python/Shell para optimizar tareas complejas y ejecuciones automatizadas.
+- **Despliegue & Contenedores:** Empaquetado de soluciones mediante Docker e integración con entornos de producción como Vercel.
 
 ---
 
