@@ -71,13 +71,6 @@ $ cat profile.json
 ## Actividad en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reivaJAQM&show_icons=true&theme=radical&count_private=true&hide_border=true&title_color=00FF66&icon_color=00FF66" alt="Estadísticas de GitHub" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reivaJAQM&layout=compact&theme=radical&count_private=true&hide_border=true&title_color=00FF66" alt="Lenguajes más usados" height="170"/>
-</div>
-
-<br />
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=reivaJAQM&theme=radical&hide_border=true&stroke=00FF66&ring=00FF66&fire=00FF66" alt="Racha de Commits" />
 </div>
 
