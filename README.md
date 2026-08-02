@@ -71,6 +71,18 @@ $ cat profile.json
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=reivaJAQM&theme=radical&hide_border=true&stroke=00FF66&ring=00FF66&fire=00FF66" alt="Racha de Commits" />
 </div>
 
+<br />
+
+### Gráfico de Contribuciones (Snake Graph)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reivaJAQM/reivaJAQM/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reivaJAQM/reivaJAQM/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/reivaJAQM/reivaJAQM/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
+
 ---
 
 <div align="center">
