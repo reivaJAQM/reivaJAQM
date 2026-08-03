@@ -1,13 +1,6 @@
 <div align="center">
 
-<pre>
-   ██████╗ ███████╗██╗██╗   ██╗██████╗  █████╗  ██████╗ ███╗   ███╗
-  ██╔══██╗██╔════╝██║██║   ██║██╔══██╗██╔══██╗██╔═══██╗████╗ ████║
-  ██████╔╝█████╗  ██║██║   ██║██████╔╝███████║██║   ██║██╔████╔██║
-  ██╔══██╗██╔══╝  ██║╚██╗ ██╔╝██╔══██╗██╔══██║██║   ██║██║╚██╔╝██║
-  ██║  ██║███████╗██║ ╚████╔╝ ██║  ██║██║  ██║╚██████╔╝██║ ╚═╝ ██║
-  ╚═╝  ╚═╝╚══════╝╚═╝  ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝
-</pre>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=38&pause=1000&color=00FF66&center=true&vCenter=true&width=650&lines=reivaJAQM;Alejandro" alt="reivaJAQM Header" />
 
   <h3><code>[!] INITIALIZING SECURITY ANALYST PROFILE...</code></h3>
 
