@@ -32,7 +32,7 @@
 [root@reivaJAQM ~]# ./profile_overview.sh
 ```
 
-> **`sysinfo`** | Estudiante de **Ingeniería en Tecnologías de la Información**, enfocado en **Ciberseguridad**, **Hacking Ético** y **Automatización de Seguridad**. Apasionado por comprender el funcionamiento interno de los sistemas, realizar auditorías de seguridad web (OWASP Top 10) y construir scripts para análisis de vulnerabilidades.
+> **sysinfo** | Estudiante de **Ingeniería en Tecnologías de la Información**, enfocado en **Ciberseguridad**, **Hacking Ético** y **Automatización de Seguridad**. Apasionado por comprender el funcionamiento interno de los sistemas, realizar auditorías de seguridad web (OWASP Top 10) y construir scripts para análisis de vulnerabilidades.
 
 ```json
 {
@@ -65,7 +65,7 @@
 [root@reivaJAQM ~]# cat /etc/credentials/certifications.txt
 ```
 
-> ### 📜 Certificación Profesional en Udemy
+> ### Certificación Profesional en Udemy
 > Credencial verificada de capacitación en desarrollo y tecnologías.
 >
 > <a href="https://www.udemy.com/certificate/UC-499922d3-d0ba-432e-bbc5-1eade2c9a2c1/">
@@ -78,11 +78,11 @@
 [root@reivaJAQM ~]# ./security_domain.sh --list
 ```
 
-- 🛡️ **Formación IT & Arquitectura:** Redes de computadoras, protocolos de comunicación y gestión de infraestructuras IT.
-- 🔍 **Seguridad Web & OWASP:** Auditoría de aplicaciones web, identificación de fallos de seguridad y evaluación de código.
-- 🤖 **Automatización Ofensiva / Defensiva:** Desarrollo de bots y scripts en Python/Bash para recolección de información y tareas automatizadas.
-- 🌐 **Reconocimiento & Análisis de Red:** Escaneo de puertos, análisis de tráfico y mapeo de vectores de ataque.
-- 🐧 **Hardening & Virtualización:** Configuración segura de servidores Linux y entornos aislados con Docker.
+- **Formación IT & Arquitectura:** Redes de computadoras, protocolos de comunicación y gestión de infraestructuras IT.
+- **Seguridad Web & OWASP:** Auditoría de aplicaciones web, identificación de fallos de seguridad y evaluación de código.
+- **Automatización Ofensiva / Defensiva:** Desarrollo de bots y scripts en Python/Bash para recolección de información y tareas automatizadas.
+- **Reconocimiento & Análisis de Red:** Escaneo de puertos, análisis de tráfico y mapeo de vectores de ataque.
+- **Hardening & Virtualización:** Configuración segura de servidores Linux y entornos aislados con Docker.
 
 ---
 
