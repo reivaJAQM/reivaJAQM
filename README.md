@@ -59,7 +59,6 @@
 ```
 
 > ### Certificación Profesional en Udemy
-> Credencial verificada de capacitación en desarrollo y tecnologías.
 >
 > <a href="https://www.udemy.com/certificate/UC-499922d3-d0ba-432e-bbc5-1eade2c9a2c1/">
 >   <img src="https://img.shields.io/badge/Udemy-Verificar_Credencial_Oficial-000000?style=for-the-badge&logo=udemy&logoColor=00FF66" alt="Udemy Certificate" />
